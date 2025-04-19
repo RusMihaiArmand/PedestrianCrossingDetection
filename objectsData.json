@@ -1,0 +1,41 @@
+{
+    "pedestrian_light": {
+        "display": true,
+        "minimum_confidence": 0.6,
+        "display_name": "Pedestrian Light",
+        "R": 255,
+        "G": 0,
+        "B": 255,
+        "line_thickness": 2,
+        "line_type": "LINE_AA"
+    },
+    "pedestrian_light_green": {
+        "display": true,
+        "minimum_confidence": 0.65,
+        "display_name": "Green Light",
+        "R": 0,
+        "G": 255,
+        "B": 0,
+        "line_thickness": 2,
+        "line_type": "LINE_AA"
+    },
+    "pedestrian_light_red": {
+        "display": true,
+        "minimum_confidence": 0.55,
+        "display_name": "Red Light",
+        "R": 255,
+        "G": 0,
+        "B": 0,
+        "line_thickness": 2,
+        "line_type": "LINE_AA"
+    },
+    "crossing": {
+        "display": true,
+        "minimum_confidence": 0.6,
+        "display_name": "Zebra",
+        "R": 102,
+        "G": 194,
+        "B": 255,
+        "line_thickness": 4
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "simple_crossing":
+    {
+        "message": "Cross with caution!",
+        "font": "FONT_HERSHEY_SIMPLEX",
+        "scale": 1.5,
+        "thickness": 2,
+        "text_color":
+        {
+            "R": 26,
+            "G": 26,
+            "B": 0
+        },
+        "background_color":
+        {
+            "R": 255,
+            "G": 255,
+            "B": 0
+        }
+    },
+    "light_crossing":
+    {
+        "message": "Cross with EXTRA caution! Lights seem to be OFF",
+        "font": "FONT_HERSHEY_SIMPLEX",
+        "scale": 1.5,
+        "thickness": 2,
+        "text_color":
+        {
+            "R": 26,
+            "G": 26,
+            "B": 0
+        },
+        "background_color":
+        {
+            "R": 255,
+            "G": 255,
+            "B": 0
+        }
+    },
+    "light_crossing_green":
+    {
+        "message": "Cross here!",
+        "font": "FONT_HERSHEY_SIMPLEX",
+        "scale": 1.5,
+        "thickness": 2,
+        "text_color":
+        {
+            "R": 0,
+            "G": 51,
+            "B": 0
+        },
+        "background_color":
+        {
+            "R": 153,
+            "G": 255,
+            "B": 153
+        }
+    },
+    "light_crossing_red":
+    {
+        "message": "Wait for the light to turn green.",
+        "font": "FONT_HERSHEY_SIMPLEX",
+        "scale": 1.5,
+        "thickness": 2,
+        "text_color":
+        {
+            "R": 0,
+            "G": 0,
+            "B": 0
+        },
+        "background_color":
+        {
+            "R": 179,
+            "G": 0,
+            "B": 0
+        }
+    }
+}
