@@ -36,8 +36,7 @@ while cap.isOpened():
 
     detected_labels = []
     results = model(frame)
-    #image = cv2.imread(image_path)
-
+ 
 
 
     for res in results:
@@ -103,7 +102,6 @@ while cap.isOpened():
 
     out.write(frame)
 
-#cv2.imwrite("video_output.mp4", video_path)
 
 cap.release()
 out.release()
